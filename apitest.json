@@ -1,0 +1,34 @@
+[ 
+   { 
+      "id":0,
+      "title":"Dynastar skida för stora berg",
+      "date_time":"over a week ago",
+      "location":"Höllviken, Skåne län",
+      "price":1000,
+      "images":"https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/74601211_10157992036179701_3003286646578741248_n.jpg?_nc_cat=106&_nc_ohc=dUArCNCb2dYAQnpTlD8fC9IW4J_JGFNs5xq37Qz5m9xr4Pks3PhGXVO2g&_nc_ht=scontent-lht6-1.xx&oh=e80aa374e9ab008c842ca06870d5d003&oe=5E79479F"
+   },
+   { 
+      "id":1,
+      "title":"Vinterdäck Skoda fabia",
+      "date_time":"over a week ago",
+      "location":"Trelleborg, Skåne län",
+      "price":2250,
+      "images":"https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/72168767_10159123607928009_633185794130968576_n.jpg?_nc_cat=104&_nc_ohc=pg-zESeY-AMAQnjrM32tK2whzj74fcWsmovDyM_-qissOF608mElfXjnQ&_nc_ht=scontent-lht6-1.xx&oh=85af41acab3a98b5c43616edfd5b7bfc&oe=5E8947A7"
+   },
+   { 
+      "id":2,
+      "title":"Riktigt trägolv",
+      "date_time":"over a week ago",
+      "location":"Malmö, Skåne län",
+      "price":1000,
+      "images":"https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/70033912_10162502514750624_790904569562398720_n.jpg?_nc_cat=109&_nc_ohc=My2X-wnx3eYAQny2yYFIJcWhSS-cSyJ6aRu2f0NPVZ3BfJk_vMvmF1XZQ&_nc_ht=scontent-lht6-1.xx&oh=e4e9b25b47e338f207e0da8faa12a8a2&oe=5E4644CF"
+   },
+   { 
+      "id":49,
+      "title":"Skor",
+      "date_time":"27 minutes ago",
+      "location":"Helsingborg, Skåne län",
+      "price":250,
+      "images":"https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/70239287_3249018085125431_4379561324049334272_n.jpg?_nc_cat=104&_nc_ohc=baLoK3hq9uwAQntl-iMyhTrAiPZVXtDOdEu8dC857Pq5Lx_5-Nv_CkAQw&_nc_ht=scontent-lht6-1.xx&oh=12510a51774327256094abcf3315055c&oe=5E81A465"
+   }
+]
